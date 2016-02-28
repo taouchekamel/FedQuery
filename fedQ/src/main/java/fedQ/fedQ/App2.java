@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package raouf;
+package fedQ.fedQ;
 
 import java.io.File;
 import java.util.Stack;
@@ -18,7 +18,7 @@ import org.openrdf.sail.nativerdf.NativeStore;
  *
  * @author adjroud
  */
-public class main {
+public class Main {
 
     public static void main(String[] args) throws Exception {
      //creation d un depot local
